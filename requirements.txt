@@ -16,7 +16,7 @@ Pillow==6.0.0
 product==0.1.1.1
 psycopg2==2.8.4
 PyAudio==0.2.11
-PyJWT==1.7.1
+PyJWT==2.4.0
 pypiwin32==223
 pyttsx3==2.71
 pytz==2019.3
